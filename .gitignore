@@ -1,0 +1,23 @@
+# Python virtual env
+venv/
+.env
+
+# Bytecode
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Data / models / logs
+data/
+models/
+*.h5
+*.pth
+report/
+*.log
+
+# System
+.DS_Store
+Thumbs.db
